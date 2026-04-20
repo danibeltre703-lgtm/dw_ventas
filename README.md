@@ -16,8 +16,7 @@ Se creó la tabla fact_ventas y se realizó un proceso ETL que incluye:
 - carga de la tabla de hechos
 
 ## Tecnologías utilizadas
-- MySQL
-- SQL
+- SQL workbench
 
 ## Autor
-[Tu nombre]
+Daniel Beltre
